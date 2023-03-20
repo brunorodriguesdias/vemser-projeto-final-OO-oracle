@@ -147,7 +147,7 @@ public class Main {
             System.out.println("[1] - Menu de Operações Passagem");
             System.out.println("[2] - Menu de Operações Trecho");
             System.out.println("[0] - Sair");
-            opcao = scanner.nextInt();
+            opcao = scanner.nextInt(); 
             scanner.nextLine();
 
             try {
